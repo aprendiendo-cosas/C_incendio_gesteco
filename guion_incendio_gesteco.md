@@ -38,3 +38,16 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 
 
 
+Nadie puso comentarios...
+
+
+
+## Algunas fotos
+
+![1](https://github.com/aprendiendo-cosas/C_incendio_gesteco/blob/main/images/1.JPG?raw=true)
+
+![2](https://github.com/aprendiendo-cosas/C_incendio_gesteco/blob/main/images/2.JPG?raw=true)
+
+![3](https://github.com/aprendiendo-cosas/C_incendio_gesteco/blob/main/images/3.JPG?raw=true)
+
+![4](https://github.com/aprendiendo-cosas/C_incendio_gesteco/blob/main/images/4.JPG?raw=true)
