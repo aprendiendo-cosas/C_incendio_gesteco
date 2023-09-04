@@ -4,7 +4,7 @@
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 
-![portada](https://github.com/aprendiendo-cosas/C_incendio_gesteco/blob/main/images/incendio.jpg?raw=true) 
+![portada](https://github.com/aprendiendo-cosas/C_incendio_gesteco/blob/2022_2023/images/incendio.jpg?raw=true) 
 
 ## Ubicación
 
@@ -44,10 +44,15 @@ Nadie puso comentarios...
 
 ## Algunas fotos
 
-![1](https://github.com/aprendiendo-cosas/C_incendio_gesteco/blob/main/images/1.JPG?raw=true)
+![1](https://github.com/aprendiendo-cosas/C_incendio_gesteco/blob/2022_2023/images/1.JPG?raw=true)
 
-![2](https://github.com/aprendiendo-cosas/C_incendio_gesteco/blob/main/images/2.JPG?raw=true)
+![2](https://github.com/aprendiendo-cosas/C_incendio_gesteco/blob/2022_2023/images/2.JPG?raw=true)
 
-![3](https://github.com/aprendiendo-cosas/C_incendio_gesteco/blob/main/images/3.JPG?raw=true)
+![3](https://github.com/aprendiendo-cosas/C_incendio_gesteco/blob/2022_2023/images/3.JPG?raw=true)
 
-![4](https://github.com/aprendiendo-cosas/C_incendio_gesteco/blob/main/images/4.JPG?raw=true)
+![4](https://github.com/aprendiendo-cosas/C_incendio_gesteco/blob/2022_2023/images/4.JPG?raw=true)
+
+
+## Vídeo realizado por los estudiantes
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/rXpKOZFmmgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
